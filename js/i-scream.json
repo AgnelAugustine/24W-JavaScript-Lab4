@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+        "image": "https://agnelaugustine.github.io/24W-JavaScript-Lab04/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 250,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://agnelaugustine.github.io/24W-JavaScript-Lab04/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
+        "image": "https://agnelaugustine.github.io/24W-JavaScript-Lab04/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "watermelon",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
+        "image": "https://agnelaugustine.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Butterscotch",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
+        "image": "https://agnelaugustine.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra2.svg"
+    }]
+}
